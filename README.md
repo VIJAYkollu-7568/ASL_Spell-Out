@@ -30,19 +30,6 @@ This project uses a YOLO object detection model to recognize American Sign Langu
 
 5.Press d to delete the last letter and q to quit and save a snapshot.
 
-**
-Structure
-
-/asl-spell-out
-|-- Maindetection.py # Your main Python script
-|-- best (1).pt # YOLO model weights
-|-- cam_testing.py # to test your cam in you pc
-|-- detect_image #to detect for one particular image
-|-- README.md
-|-- requirements.txt # List of Python dependencies (optional)
-|-- /assets
-|-- signs.png # Image of ASL letters you want to show in README
-|-- screenshot1.jpg # Screenshot of your app running
 
 
 
