@@ -27,7 +27,6 @@ This project uses a YOLO object detection model to recognize American Sign Langu
 
 3. Run the Python script:
 4. Use your webcam to perform ASL letter signs.
-
 5.Press d to delete the last letter and q to quit and save a snapshot.
 
 
